@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Mohammadreza Dehghani
 
 ### I'm a Frontend Developer
-##### Meticulous software developer with over 4 years of experience and passion for client side applications design.
+#### Meticulous software developer with over 4 years of experience and passion for client side applications design.
 
- 💻 I’m currently working on React Native apps
+##### 💻 I’m currently working on React Native apps
  
- 💡 I'm a Self-Motivated developer I love learning new technologies
+##### 💡 I'm a Self-Motivated developer I love learning new technologies
  
- ⛱️ In my free time, I read books, watch movies and play keyboard instrument
+##### ⛱️ In my free time, I read books, watch movies and play keyboard instrument
 
 
 ## 🛠 Tech Stack
